@@ -3,8 +3,8 @@
 Coming soon
 
 # Dataset
-Data crawled by ratebeer : https://www.ratebeer.com/
-Dataset url : Coming soon
+- Data crawled by ratebeer : https://www.ratebeer.com/
+- Dataset url : Coming soon
 
 ### ratebeer.csv
 - input data table
