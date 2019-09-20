@@ -1,9 +1,10 @@
 # Beer Recommender System
 ![ex_screenshot](./img/beer_header.jpg)
-Tell me what beer would I like
+Coming soon
 
 # Dataset
 Data crawled by ratebeer : https://www.ratebeer.com/
+Dataset url : Coming soon
 
 ### ratebeer.csv
 - input data table
