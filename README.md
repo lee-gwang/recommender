@@ -6,10 +6,9 @@ Tell me what beer would I like
 Data crawled by ratebeer : https://www.ratebeer.com/
 
 ### ratebeer.csv
-- 여기에 표넣기
+- input data table
 - 10377 Users,  507864 Beers, sparsity : 99.8429%
-
-- 최소 50개 이상 평가한 유저
+- Users who rated at least 50 beers
 
 crawling date : 2018.07
 
